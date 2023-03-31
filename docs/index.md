@@ -405,6 +405,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-30**|**3D Line Mapping Revisited**|Shaohui Liu et.al.|[2303.17504](http://arxiv.org/abs/2303.17504)|**[link](https://github.com/cvg/limap)**|
 |**2023-03-27**|**TMO: Textured Mesh Acquisition of Objects with a Mobile Device by using Differentiable Rendering**|Jaehoon Choi et.al.|[2303.15060](http://arxiv.org/abs/2303.15060)|null|
 |**2023-03-26**|**On the Importance of Accurate Geometry Data for Dense 3D Vision Tasks**|HyunJun Jung et.al.|[2303.14840](http://arxiv.org/abs/2303.14840)|**[link](https://github.com/junggy/hammer-dataset)**|
 |**2023-03-24**|**Seeing Through the Glass: Neural 3D Reconstruction of Object Inside a Transparent Container**|Jinguang Tong et.al.|[2303.13805](http://arxiv.org/abs/2303.13805)|**[link](https://github.com/hirotong/reneus)**|
@@ -497,6 +498,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-30**|**3D Line Mapping Revisited**|Shaohui Liu et.al.|[2303.17504](http://arxiv.org/abs/2303.17504)|**[link](https://github.com/cvg/limap)**|
+|**2023-03-30**|**Methods and advancement of content-based fashion image retrieval: A Review**|Amin Muhammad Shoib et.al.|[2303.17371](http://arxiv.org/abs/2303.17371)|null|
+|**2023-03-30**|**Adaptive Cross Batch Normalization for Metric Learning**|Thalaiyasingam Ajanthan et.al.|[2303.17127](http://arxiv.org/abs/2303.17127)|null|
 |**2023-03-30**|**MaMMUT: A Simple Architecture for Joint Learning for MultiModal Tasks**|Weicheng Kuo et.al.|[2303.16839](http://arxiv.org/abs/2303.16839)|null|
 |**2023-03-29**|**Sketch-an-Anchor: Sub-epoch Fast Model Adaptation for Zero-shot Sketch-based Image Retrieval**|Leo Sampaio Ferraz Ribeiro et.al.|[2303.16769](http://arxiv.org/abs/2303.16769)|null|
 |**2023-03-29**|**Bi-directional Training for Composed Image Retrieval via Text Prompt Learning**|Zheyuan Liu et.al.|[2303.16604](http://arxiv.org/abs/2303.16604)|null|
