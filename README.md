@@ -526,6 +526,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-19**|**Towards More Transparent and Accurate Cancer Diagnosis with an Unsupervised CAE Approach**|Zahra Tabatabaei et.al.|[2305.11728](http://arxiv.org/abs/2305.11728)|null|
+|**2023-05-19**|**Learning Sequence Descriptor based on Spatiotemporal Attention for Visual Place Recognition**|Fenglin Zhang et.al.|[2305.11467](http://arxiv.org/abs/2305.11467)|null|
 |**2023-05-12**|**IMAGINATOR: Pre-Trained Image+Text Joint Embeddings using Word-Level Grounding of Images**|Varuna Krishna et.al.|[2305.10438](http://arxiv.org/abs/2305.10438)|null|
 |**2023-05-17**|**Self-Training Boosted Multi-Faceted Matching Network for Composed Image Retrieval**|Haokun Wen et.al.|[2305.09979](http://arxiv.org/abs/2305.09979)|null|
 |**2023-05-13**|**Illumination-insensitive Binary Descriptor for Visual Measurement Based on Local Inter-patch Invariance**|Xinyu Lin et.al.|[2305.07943](http://arxiv.org/abs/2305.07943)|**[link](https://github.com/roylin1229/IIB_descriptor)**|
