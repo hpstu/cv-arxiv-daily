@@ -628,6 +628,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-27**|**Multimodal Learned Sparse Retrieval with Probabilistic Expansion Control**|Thong Nguyen et.al.|[2402.17535](http://arxiv.org/abs/2402.17535)|**[link](https://github.com/thongnt99/lsr-multimodal)**|
+|**2024-02-27**|**Active propulsion noise shaping for multi-rotor aircraft localization**|Serussi Gabriele et.al.|[2402.17289](http://arxiv.org/abs/2402.17289)|**[link](https://github.com/tamirshor7/ears_code)**|
+|**2024-02-27**|**NocPlace: Nocturnal Visual Place Recognition Using Generative and Inherited Knowledge Transfer**|Bingxi Liu et.al.|[2402.17159](http://arxiv.org/abs/2402.17159)|null|
 |**2024-02-25**|**Deep Homography Estimation for Visual Place Recognition**|Feng Lu et.al.|[2402.16086](http://arxiv.org/abs/2402.16086)|**[link](https://github.com/lu-feng/dhe-vpr)**|
 |**2024-02-25**|**VOLoc: Visual Place Recognition by Querying Compressed Lidar Map**|Xudong Cai et.al.|[2402.15961](http://arxiv.org/abs/2402.15961)|**[link](https://github.com/master-cai/voloc)**|
 |**2024-02-23**|**Text2Pic Swift: Enhancing Long-Text to Image Retrieval for Large-Scale Libraries**|Zijun Long et.al.|[2402.15276](http://arxiv.org/abs/2402.15276)|null|
