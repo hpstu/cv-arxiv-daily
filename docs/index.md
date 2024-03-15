@@ -464,6 +464,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-14**|**Relaxing Accurate Initialization Constraint for 3D Gaussian Splatting**|Jaewoo Jung et.al.|[2403.09413](http://arxiv.org/abs/2403.09413)|null|
 |**2024-03-13**|**Refractive COLMAP: Refractive Structure-from-Motion Revisited**|Mengkun She et.al.|[2403.08640](http://arxiv.org/abs/2403.08640)|null|
 |**2024-03-13**|**NeRF-Supervised Feature Point Detection and Description**|Ali Youssef et.al.|[2403.08156](http://arxiv.org/abs/2403.08156)|null|
 |**2024-03-11**|**SiLVR: Scalable Lidar-Visual Reconstruction with Neural Radiance Fields for Robotic Inspection**|Yifu Tao et.al.|[2403.06877](http://arxiv.org/abs/2403.06877)|null|
@@ -633,6 +634,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-14**|**The NeRFect Match: Exploring NeRF Features for Visual Localization**|Qunjie Zhou et.al.|[2403.09577](http://arxiv.org/abs/2403.09577)|null|
+|**2024-03-14**|**VDNA-PR: Using General Dataset Representations for Robust Sequential Visual Place Recognition**|Benjamin Ramtoula et.al.|[2403.09025](http://arxiv.org/abs/2403.09025)|null|
+|**2024-03-13**|**PAPERCLIP: Associating Astronomical Observations and Natural Language with Multi-Modal Models**|Siddharth Mishra-Sharma et.al.|[2403.08851](http://arxiv.org/abs/2403.08851)|**[link](https://github.com/smsharma/paperclip-hubble)**|
 |**2024-03-13**|**NeRF-Supervised Feature Point Detection and Description**|Ali Youssef et.al.|[2403.08156](http://arxiv.org/abs/2403.08156)|null|
 |**2024-03-12**|**It's All About Your Sketch: Democratising Sketch Control in Diffusion Models**|Subhadeep Koley et.al.|[2403.07234](http://arxiv.org/abs/2403.07234)|**[link](https://github.com/subhadeepkoley/demosketch2rgb)**|
 |**2024-03-12**|**You'll Never Walk Alone: A Sketch and Text Duet for Fine-Grained Image Retrieval**|Subhadeep Koley et.al.|[2403.07222](http://arxiv.org/abs/2403.07222)|null|
@@ -1537,6 +1541,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-14**|**Virtual birefringence imaging and histological staining of amyloid deposits in label-free tissue using autofluorescence microscopy and deep learning**|Xilin Yang et.al.|[2403.09100](http://arxiv.org/abs/2403.09100)|null|
 |**2024-03-13**|**Matching Non-Identical Objects**|Yusuke Marumo et.al.|[2403.08227](http://arxiv.org/abs/2403.08227)|null|
 |**2024-03-11**|**Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed**|Yifan Wang et.al.|[2403.04765](http://arxiv.org/abs/2403.04765)|null|
 |**2024-03-07**|**Scene Depth Estimation from Traditional Oriental Landscape Paintings**|Sungho Kang et.al.|[2403.03408](http://arxiv.org/abs/2403.03408)|null|
