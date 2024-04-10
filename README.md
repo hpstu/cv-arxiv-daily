@@ -660,6 +660,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-09**|**Learning Embeddings with Centroid Triplet Loss for Object Identification in Robotic Grasping**|Anas Gouda et.al.|[2404.06277](http://arxiv.org/abs/2404.06277)|null|
 |**2024-04-07**|**Weakly Supervised Deep Hyperspherical Quantization for Image Retrieval**|Jinpeng Wang et.al.|[2404.04998](http://arxiv.org/abs/2404.04998)|**[link](https://github.com/gimpong/AAAI21-WSDHQ)**|
 |**2024-04-06**|**Soft-Prompting with Graph-of-Thought for Multi-modal Representation Learning**|Juncheng Yang et.al.|[2404.04538](http://arxiv.org/abs/2404.04538)|null|
 |**2024-04-05**|**Towards introspective loop closure in 4D radar SLAM**|Maximilian Hilger et.al.|[2404.03940](http://arxiv.org/abs/2404.03940)|null|
@@ -1608,6 +1609,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-09**|**Matching 2D Images in 3D: Metric Relative Pose from Metric Correspondences**|Axel Barroso-Laguna et.al.|[2404.06337](http://arxiv.org/abs/2404.06337)|null|
 |**2024-04-01**|**Marrying NeRF with Feature Matching for One-step Pose Estimation**|Ronghan Chen et.al.|[2404.00891](http://arxiv.org/abs/2404.00891)|null|
 |**2024-04-01**|**3MOS: Multi-sources, Multi-resolutions, and Multi-scenes dataset for Optical-SAR image matching**|Yibin Ye et.al.|[2404.00838](http://arxiv.org/abs/2404.00838)|null|
 |**2024-03-31**|**On the Estimation of Image-matching Uncertainty in Visual Place Recognition**|Mubariz Zaffar et.al.|[2404.00546](http://arxiv.org/abs/2404.00546)|null|
