@@ -495,6 +495,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-10**|**Lighting Every Darkness with 3DGS: Fast Training and Real-Time Rendering for HDR View Synthesis**|Xin Jin et.al.|[2406.06216](http://arxiv.org/abs/2406.06216)|null|
 |**2024-06-06**|**Localized Gaussian Point Management**|Haosen Yang et.al.|[2406.04251](http://arxiv.org/abs/2406.04251)|null|
 |**2024-06-04**|**CamCo: Camera-Controllable 3D-Consistent Image-to-Video Generation**|Dejia Xu et.al.|[2406.02509](http://arxiv.org/abs/2406.02509)|null|
 |**2024-05-29**|**Neural Radiance Fields for Novel View Synthesis in Monocular Gastroscopy**|Zijie Jiang et.al.|[2405.18863](http://arxiv.org/abs/2405.18863)|null|
@@ -691,6 +692,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-10**|**Multicam-SLAM: Non-overlapping Multi-camera SLAM for Indirect Visual Localization and Navigation**|Shenghao Li et.al.|[2406.06374](http://arxiv.org/abs/2406.06374)|**[link](https://github.com/alterpang/multi_orb_slam)**|
+|**2024-06-09**|**Unified Text-to-Image Generation and Retrieval**|Leigang Qu et.al.|[2406.05814](http://arxiv.org/abs/2406.05814)|null|
+|**2024-06-07**|**The Unmet Promise of Synthetic Training Images: Using Retrieved Real Images Performs Better**|Scott Geng et.al.|[2406.05184](http://arxiv.org/abs/2406.05184)|**[link](https://github.com/scottgeng00/unmet-promise)**|
 |**2024-06-07**|**PQPP: A Joint Benchmark for Text-to-Image Prompt and Query Performance Prediction**|Eduard Poesina et.al.|[2406.04746](http://arxiv.org/abs/2406.04746)|**[link](https://github.com/eduard6421/pqpp)**|
 |**2024-06-06**|**GLACE: Global Local Accelerated Coordinate Encoding**|Fangjinhua Wang et.al.|[2406.04340](http://arxiv.org/abs/2406.04340)|**[link](https://github.com/cvg/glace)**|
 |**2024-06-06**|**Monocular Localization with Semantics Map for Autonomous Vehicles**|Jixiang Wan et.al.|[2406.03835](http://arxiv.org/abs/2406.03835)|null|
@@ -1723,7 +1727,7 @@
 |**2024-05-13**|**Authentic Hand Avatar from a Phone Scan via Universal Hand Model**|Gyeongsik Moon et.al.|[2405.07933](http://arxiv.org/abs/2405.07933)|null|
 |**2024-04-30**|**A Light-weight Transformer-based Self-supervised Matching Network for Heterogeneous Images**|Wang Zhang et.al.|[2404.19311](http://arxiv.org/abs/2404.19311)|null|
 |**2024-04-30**|**XFeat: Accelerated Features for Lightweight Image Matching**|Guilherme Potje et.al.|[2404.19174](http://arxiv.org/abs/2404.19174)|null|
-|**2024-04-27**|**MinBackProp -- Backpropagating through Minimal Solvers**|Diana Sungatullina et.al.|[2404.17993](http://arxiv.org/abs/2404.17993)|**[link](https://github.com/disungatullina/minbackprop)**|
+|**2024-06-10**|**MinBackProp -- Backpropagating through Minimal Solvers**|Diana Sungatullina et.al.|[2404.17993](http://arxiv.org/abs/2404.17993)|**[link](https://github.com/disungatullina/minbackprop)**|
 |**2024-04-25**|**Transformer-Based Local Feature Matching for Multimodal Image Registration**|Remi Delaunay et.al.|[2404.16802](http://arxiv.org/abs/2404.16802)|null|
 |**2024-04-23**|**FINEMATCH: Aspect-based Fine-grained Image and Text Mismatch Detection and Correction**|Hang Hua et.al.|[2404.14715](http://arxiv.org/abs/2404.14715)|null|
 |**2024-04-22**|**Scene Coordinate Reconstruction: Posing of Image Collections via Incremental Learning of a Relocalizer**|Eric Brachmann et.al.|[2404.14351](http://arxiv.org/abs/2404.14351)|null|
