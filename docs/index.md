@@ -720,6 +720,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-27**|**Snap and Diagnose: An Advanced Multimodal Retrieval System for Identifying Plant Diseases in the Wild**|Tianqi Wei et.al.|[2408.14723](http://arxiv.org/abs/2408.14723)|null|
 |**2024-08-25**|**LowCLIP: Adapting the CLIP Model Architecture for Low-Resource Languages in Multimodal Image Retrieval Task**|Ali Asgarov et.al.|[2408.13909](http://arxiv.org/abs/2408.13909)|**[link](https://github.com/aliasgerovs/azclip)**|
 |**2024-08-15**|**Cross-Modal Denoising: A Novel Training Paradigm for Enhancing Speech-Image Retrieval**|Lifeng Zhou et.al.|[2408.13705](http://arxiv.org/abs/2408.13705)|null|
 |**2024-08-15**|**Coarse-to-fine Alignment Makes Better Speech-image Retrieval**|Lifeng Zhou et.al.|[2408.13119](http://arxiv.org/abs/2408.13119)|null|
