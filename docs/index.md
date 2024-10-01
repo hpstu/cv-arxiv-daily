@@ -506,6 +506,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-29**|**Robust Incremental Structure-from-Motion with Hybrid Features**|Shaohui Liu et.al.|[2409.19811](http://arxiv.org/abs/2409.19811)|null|
+|**2024-09-27**|**MASt3R-SfM: a Fully-Integrated Solution for Unconstrained Structure-from-Motion**|Bardienus Duisterhof et.al.|[2409.19152](http://arxiv.org/abs/2409.19152)|null|
 |**2024-09-27**|**Exploiting Motion Prior for Accurate Pose Estimation of Dashboard Cameras**|Yipeng Lu et.al.|[2409.18673](http://arxiv.org/abs/2409.18673)|null|
 |**2024-09-26**|**BlinkTrack: Feature Tracking over 100 FPS via Events and Images**|Yichen Shen et.al.|[2409.17981](http://arxiv.org/abs/2409.17981)|null|
 |**2024-09-24**|**Frequency-based View Selection in Gaussian Splatting Reconstruction**|Monica M. Q. Li et.al.|[2409.16470](http://arxiv.org/abs/2409.16470)|null|
@@ -743,6 +745,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-29**|**CELLmap: Enhancing LiDAR SLAM through Elastic and Lightweight Spherical Map Representation**|Yifan Duan et.al.|[2409.19597](http://arxiv.org/abs/2409.19597)|null|
+|**2024-09-28**|**VLAD-BuFF: Burst-aware Fast Feature Aggregation for Visual Place Recognition**|Ahmad Khaliq et.al.|[2409.19293](http://arxiv.org/abs/2409.19293)|**[link](https://github.com/ahmedest61/vlad-buff)**|
+|**2024-09-27**|**MASt3R-SfM: a Fully-Integrated Solution for Unconstrained Structure-from-Motion**|Bardienus Duisterhof et.al.|[2409.19152](http://arxiv.org/abs/2409.19152)|null|
 |**2024-09-26**|**Search and Detect: Training-Free Long Tail Object Detection via Web-Image Retrieval**|Mankeerat Sidhu et.al.|[2409.18733](http://arxiv.org/abs/2409.18733)|null|
 |**2024-09-26**|**Revisit Anything: Visual Place Recognition via Image Segment Retrieval**|Kartik Garg et.al.|[2409.18049](http://arxiv.org/abs/2409.18049)|**[link](https://github.com/anyloc/revisit-anything)**|
 |**2024-09-24**|**GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization**|Gennady Sidorov et.al.|[2409.16502](http://arxiv.org/abs/2409.16502)|**[link](https://github.com/haksorus/gsplatloc)**|
@@ -1654,6 +1659,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-30**|**OpenKD: Opening Prompt Diversity for Zero- and Few-shot Keypoint Detection**|Changsheng Lu et.al.|[2409.19899](http://arxiv.org/abs/2409.19899)|null|
 |**2024-09-26**|**SKT: Integrating State-Aware Keypoint Trajectories with Vision-Language Models for Robotic Garment Manipulation**|Xin Li et.al.|[2409.18082](http://arxiv.org/abs/2409.18082)|null|
 |**2024-09-24**|**GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization**|Gennady Sidorov et.al.|[2409.16502](http://arxiv.org/abs/2409.16502)|**[link](https://github.com/haksorus/gsplatloc)**|
 |**2024-09-20**|**Keypoint Detection Technique for Image-Based Visual Servoing of Manipulators**|Niloufar Amiri et.al.|[2409.13668](http://arxiv.org/abs/2409.13668)|null|
