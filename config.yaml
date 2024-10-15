@@ -35,5 +35,9 @@ keywords:
     "Image Matching":
         filters: ["Image Matching", "Keypoint Matching", 
                   "Line Segment Detection", "Local Feature Matching"]
+    "Detection":
+    filters: ["Image Detection"]
+    "Tracking":
+    filters: ["Image Tracking"]
     # "NeRF":
     #    filters: ["NeRF"]
