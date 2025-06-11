@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.06
+## Updated on 2025.06.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2867,8 +2867,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-21**|**Anti-interrupted sampling repeater jamming via linear canonical Wigner distribution lightweight LFM detection**|Jia-Mian Li et.al.|[2506.06302](http://arxiv.org/abs/2506.06302)|null|
+|**2025-06-05**|**Vanishing arcs for isolated plane curve singularities**|Hanwool Bae et.al.|[2506.04917](http://arxiv.org/abs/2506.04917)|null|
+|**2025-06-05**|**Deep Learning Reforms Image Matching: A Survey and Outlook**|Shihua Zhang et.al.|[2506.04619](http://arxiv.org/abs/2506.04619)|null|
 |**2025-06-05**|**SR3D: Unleashing Single-view 3D Reconstruction for Transparent and Specular Object Grasping**|Mingxu Zhang et.al.|[2505.24305](http://arxiv.org/abs/2505.24305)|null|
-|**2025-05-28**|**Universal Domain Adaptation for Semantic Segmentation**|Seun-An Choe et.al.|[2505.22458](http://arxiv.org/abs/2505.22458)|null|
+|**2025-06-05**|**Universal Domain Adaptation for Semantic Segmentation**|Seun-An Choe et.al.|[2505.22458](http://arxiv.org/abs/2505.22458)|null|
 |**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973](http://arxiv.org/abs/2505.17973)|null|
 |**2025-05-16**|**Multi-view dense image matching with similarity learning and geometry priors**|Mohamed Ali Chebbi et.al.|[2505.11264](http://arxiv.org/abs/2505.11264)|null|
 |**2025-05-12**|**Boosting Global-Local Feature Matching via Anomaly Synthesis for Multi-Class Point Cloud Anomaly Detection**|Yuqi Cheng et.al.|[2505.07375](http://arxiv.org/abs/2505.07375)|**[link](https://github.com/hustCYQ/GLFM-Multi-class-3DAD)**|
@@ -4815,6 +4818,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**Stone Soup: ADS-B-based Multi-Target Tracking with Stochastic Integration Filter**|John Hiles et.al.|[2506.07889](http://arxiv.org/abs/2506.07889)|null|
+|**2025-06-09**|**SAM2Auto: Auto Annotation Using FLASH**|Arash Rocky et.al.|[2506.07850](http://arxiv.org/abs/2506.07850)|null|
+|**2025-06-05**|**FRAME: Pre-Training Video Feature Representations via Anticipation and Memory**|Sethuraman TV et.al.|[2506.05543](http://arxiv.org/abs/2506.05543)|null|
 |**2025-06-04**|**Contour Errors: An Ego-Centric Metric for Reliable 3D Multi-Object Tracking**|Sharang Kaul et.al.|[2506.04122](http://arxiv.org/abs/2506.04122)|null|
 |**2025-06-03**|**Occlusion-Aware Ground Target Tracking by a Dubins Vehicle Using Visibility Volumes**|Collin Hague et.al.|[2506.03400](http://arxiv.org/abs/2506.03400)|**[link](https://github.com/robotics-uncc/DubinsVisibilityTracking)**|
 |**2025-06-03**|**SportMamba: Adaptive Non-Linear Multi-Object Tracking with State Space Models for Team Sports**|Dheeraj Khanna et.al.|[2506.03335](http://arxiv.org/abs/2506.03335)|null|
@@ -4830,6 +4836,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-09**|**CrosswalkNet: An Optimized Deep Learning Framework for Pedestrian Crosswalk Detection in Aerial Images with High-Performance Computing**|Zubin Bhuyan et.al.|[2506.07885](http://arxiv.org/abs/2506.07885)|null|
+|**2025-06-09**|**SAM2Auto: Auto Annotation Using FLASH**|Arash Rocky et.al.|[2506.07850](http://arxiv.org/abs/2506.07850)|null|
+|**2025-06-09**|**Design and Evaluation of Deep Learning-Based Dual-Spectrum Image Fusion Methods**|Beining Xu et.al.|[2506.07779](http://arxiv.org/abs/2506.07779)|null|
+|**2025-06-09**|**SpikeSMOKE: Spiking Neural Networks for Monocular 3D Object Detection with Cross-Scale Gated Coding**|Xuemei Chen et.al.|[2506.07737](http://arxiv.org/abs/2506.07737)|null|
+|**2025-06-09**|**Domain Randomization for Object Detection in Manufacturing Applications using Synthetic Data: A Comprehensive Study**|Xiaomeng Zhu et.al.|[2506.07539](http://arxiv.org/abs/2506.07539)|null|
+|**2025-06-09**|**SpatialLM: Training Large Language Models for Structured Indoor Modeling**|Yongsen Mao et.al.|[2506.07491](http://arxiv.org/abs/2506.07491)|null|
+|**2025-06-09**|**Happiness Finder: Exploring the Role of AI in Enhancing Well-Being During Four-Leaf Clover Searches**|Anna Yokokubo et.al.|[2506.07393](http://arxiv.org/abs/2506.07393)|null|
+|**2025-06-09**|**Multiple Object Stitching for Unsupervised Representation Learning**|Chengchao Shen et.al.|[2506.07364](http://arxiv.org/abs/2506.07364)|**[link](https://github.com/visresearch/MultipleObjectStitching)**|
+|**2025-06-09**|**CBAM-STN-TPS-YOLO: Enhancing Agricultural Object Detection through Spatially Adaptive Attention Mechanisms**|Satvik Praveen et.al.|[2506.07357](http://arxiv.org/abs/2506.07357)|null|
+|**2025-06-08**|**UCOD-DPL: Unsupervised Camouflaged Object Detection via Dynamic Pseudo-label Learning**|Weiqi Yan et.al.|[2506.07087](http://arxiv.org/abs/2506.07087)|null|
 |**2025-06-04**|**Diffusion Domain Teacher: Diffusion Guided Domain Adaptive Object Detector**|Boyong He et.al.|[2506.04211](http://arxiv.org/abs/2506.04211)|**[link](https://github.com/heboyong/Diffusion-Domain-Teacher)**|
 |**2025-06-04**|**FSHNet: Fully Sparse Hybrid Network for 3D Object Detection**|Shuai Liu et.al.|[2506.03714](http://arxiv.org/abs/2506.03714)|null|
 |**2025-06-04**|**How PARTs assemble into wholes: Learning the relative composition of images**|Melika Ayoughi et.al.|[2506.03682](http://arxiv.org/abs/2506.03682)|null|
