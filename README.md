@@ -1,4 +1,4 @@
-## Updated on 2025.06.21
+## Updated on 2025.06.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -975,7 +975,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20250621>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
 
 ## SFM
 
@@ -1400,7 +1400,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20250621>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2564,7 +2564,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20250621>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2575,7 +2575,7 @@
 |**2025-05-18**|**SEPT: Standard-Definition Map Enhanced Scene Perception and Topology Reasoning for Autonomous Driving**|Muleilan Pei et.al.|[2505.12246](http://arxiv.org/abs/2505.12246)|null|
 |**2025-05-17**|**Keypoints as Dynamic Centroids for Unified Human Pose and Segmentation**|Niaz Ahmad et.al.|[2505.12130](http://arxiv.org/abs/2505.12130)|null|
 |**2025-05-16**|**Deepfake Forensic Analysis: Source Dataset Attribution and Legal Implications of Synthetic Media Manipulation**|Massimiliano Cassia et.al.|[2505.11110](http://arxiv.org/abs/2505.11110)|null|
-|**2025-06-18**|**RDD: Robust Feature Detector and Descriptor using Deformable Transformer**|Gonglin Chen et.al.|[2505.08013](http://arxiv.org/abs/2505.08013)|null|
+|**2025-06-19**|**RDD: Robust Feature Detector and Descriptor using Deformable Transformer**|Gonglin Chen et.al.|[2505.08013](http://arxiv.org/abs/2505.08013)|null|
 |**2025-05-12**|**Enabling Privacy-Aware AI-Based Ergonomic Analysis**|Sander De Coninck et.al.|[2505.07306](http://arxiv.org/abs/2505.07306)|null|
 |**2025-05-09**|**My Emotion on your face: The use of Facial Keypoint Detection to preserve Emotions in Latent Space Editing**|Jingrui He et.al.|[2505.06436](http://arxiv.org/abs/2505.06436)|null|
 |**2025-05-05**|**Unsupervised training of keypoint-agnostic descriptors for flexible retinal image registration**|David Rivas-Villar et.al.|[2505.02787](http://arxiv.org/abs/2505.02787)|null|
@@ -2879,7 +2879,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20250621>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2893,7 +2893,7 @@
 |**2025-05-21**|**Anti-interrupted sampling repeater jamming via linear canonical Wigner distribution lightweight LFM detection**|Jia-Mian Li et.al.|[2506.06302](http://arxiv.org/abs/2506.06302)|null|
 |**2025-06-05**|**Vanishing arcs for isolated plane curve singularities**|Hanwool Bae et.al.|[2506.04917](http://arxiv.org/abs/2506.04917)|null|
 |**2025-06-05**|**Deep Learning Reforms Image Matching: A Survey and Outlook**|Shihua Zhang et.al.|[2506.04619](http://arxiv.org/abs/2506.04619)|null|
-|**2025-06-05**|**SR3D: Unleashing Single-view 3D Reconstruction for Transparent and Specular Object Grasping**|Mingxu Zhang et.al.|[2505.24305](http://arxiv.org/abs/2505.24305)|null|
+|**2025-06-20**|**SR3D: Unleashing Single-view 3D Reconstruction for Transparent and Specular Object Grasping**|Mingxu Zhang et.al.|[2505.24305](http://arxiv.org/abs/2505.24305)|null|
 |**2025-06-05**|**Universal Domain Adaptation for Semantic Segmentation**|Seun-An Choe et.al.|[2505.22458](http://arxiv.org/abs/2505.22458)|null|
 |**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973](http://arxiv.org/abs/2505.17973)|**[link](https://github.com/simbauer/to_glue_or_not_to_glue)**|
 |**2025-05-16**|**Multi-view dense image matching with similarity learning and geometry priors**|Mohamed Ali Chebbi et.al.|[2505.11264](http://arxiv.org/abs/2505.11264)|null|
@@ -3221,7 +3221,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20250621>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
 
 ## NeRF
 
@@ -4839,12 +4839,22 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250621>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
 
 ## Tracking
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**VideoPCDNet: Video Parsing and Prediction with Phase Correlation Networks**|Noel José Rodrigues Vicente et.al.|[2506.19621](http://arxiv.org/abs/2506.19621)|null|
+|**2025-06-24**|**Trajectory Prediction in Dynamic Object Tracking: A Critical Study**|Zhongping Dong et.al.|[2506.19341](http://arxiv.org/abs/2506.19341)|null|
+|**2025-06-23**|**Lightweight RGB-T Tracking with Mobile Vision Transformers**|Mahdi Falaki et.al.|[2506.19154](http://arxiv.org/abs/2506.19154)|null|
+|**2025-06-23**|**USVTrack: USV-Based 4D Radar-Camera Tracking Dataset for Autonomous Driving in Inland Waterways**|Shanliang Yao et.al.|[2506.18737](http://arxiv.org/abs/2506.18737)|null|
+|**2025-06-23**|**NOVA: Navigation via Object-Centric Visual Autonomy for High-Speed Target Tracking in Unstructured GPS-Denied Environments**|Alessandro Saviolo et.al.|[2506.18689](http://arxiv.org/abs/2506.18689)|null|
+|**2025-06-23**|**Frequency Range 3 for ISAC in 6G: Potentials and Challenges**|Gayan Aruma Baduge et.al.|[2506.18243](http://arxiv.org/abs/2506.18243)|null|
+|**2025-06-20**|**Efficient Implementation of Multi-sensor Adaptive Birth Samplers for Labeled Random Finite Set Tracking**|Jennifer Bondarchuk et.al.|[2506.17205](http://arxiv.org/abs/2506.17205)|null|
+|**2025-06-20**|**RGBTrack: Fast, Robust Depth-Free 6D Pose Estimation and Tracking**|Teng Guo et.al.|[2506.17119](http://arxiv.org/abs/2506.17119)|**[link](https://github.com/greatenanoymous/rgbtrack)**|
+|**2025-06-20**|**ITO-Master: Inference-Time Optimization for Audio Effects Modeling of Music Mastering Processors**|Junghyun Koo et.al.|[2506.16889](http://arxiv.org/abs/2506.16889)|**[link](https://github.com/sonyresearch/ito-master)**|
+|**2025-06-20**|**Vision-Based Multirotor Control for Spherical Target Tracking: A Bearing-Angle Approach**|Marcelo Jacinto et.al.|[2506.16870](http://arxiv.org/abs/2506.16870)|null|
 |**2025-06-18**|**Probabilistic Trajectory GOSPA: A Metric for Uncertainty-Aware Multi-Object Tracking Performance Evaluation**|Yuxuan Xia et.al.|[2506.15148](http://arxiv.org/abs/2506.15148)|null|
 |**2025-06-17**|**A Comprehensive Survey on Underwater Acoustic Target Positioning and Tracking: Progress, Challenges, and Perspectives**|Zhong Yang et.al.|[2506.14165](http://arxiv.org/abs/2506.14165)|null|
 |**2025-06-16**|**Deep Learning-Based Multi-Object Tracking: A Comprehensive Survey from Foundations to State-of-the-Art**|Momir Adžemović et.al.|[2506.13457](http://arxiv.org/abs/2506.13457)|null|
@@ -4868,12 +4878,22 @@
 |**2025-05-27**|**SANSA: Unleashing the Hidden Semantics in SAM2 for Few-Shot Segmentation**|Claudia Cuttano et.al.|[2505.21795](http://arxiv.org/abs/2505.21795)|null|
 |**2025-05-27**|**Active Learning-Enhanced Dual Control for Angle-Only Initial Relative Orbit Determination**|Kui Xie et.al.|[2505.21248](http://arxiv.org/abs/2505.21248)|null|
 
-<p align=right>(<a href=#updated-on-20250621>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
 
 ## Detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**A Survey of Multi-sensor Fusion Perception for Embodied AI: Background, Methods, Challenges and Prospects**|Shulan Ruan et.al.|[2506.19769](http://arxiv.org/abs/2506.19769)|null|
+|**2025-06-24**|**Semantic Scene Graph for Ultrasound Image Explanation and Scanning Guidance**|Xuesong Li et.al.|[2506.19683](http://arxiv.org/abs/2506.19683)|null|
+|**2025-06-24**|**Probabilistic modelling and safety assurance of an agriculture robot providing light-treatment**|Mustafa Adam et.al.|[2506.19620](http://arxiv.org/abs/2506.19620)|null|
+|**2025-06-24**|**USIS16K: High-Quality Dataset for Underwater Salient Instance Segmentation**|Lin Hong et.al.|[2506.19472](http://arxiv.org/abs/2506.19472)|null|
+|**2025-06-23**|**SpaNN: Detecting Multiple Adversarial Patches on CNNs by Spanning Saliency Thresholds**|Mauricio Byrd Victorica et.al.|[2506.18591](http://arxiv.org/abs/2506.18591)|null|
+|**2025-06-23**|**Improvement on LiDAR-Camera Calibration Using Square Targets**|Zhongyuan Li et.al.|[2506.18294](http://arxiv.org/abs/2506.18294)|null|
+|**2025-06-23**|**Learning Approach to Efficient Vision-based Active Tracking of a Flying Target by an Unmanned Aerial Vehicle**|Jagadeswara PKV Pothuri et.al.|[2506.18264](http://arxiv.org/abs/2506.18264)|null|
+|**2025-06-23**|**Ground tracking for improved landmine detection in a GPR system**|Li Tang et.al.|[2506.18258](http://arxiv.org/abs/2506.18258)|null|
+|**2025-06-24**|**Referring Expression Instance Retrieval and A Strong End-to-End Baseline**|Xiangzhao Hao et.al.|[2506.18246](http://arxiv.org/abs/2506.18246)|null|
+|**2025-06-24**|**Unfolding the Past: A Comprehensive Deep Learning Approach to Analyzing Incunabula Pages**|Klaudia Ropel et.al.|[2506.18069](http://arxiv.org/abs/2506.18069)|null|
 |**2025-06-18**|**BoxFusion: Reconstruction-Free Open-Vocabulary 3D Object Detection via Real-Time Multi-View Box Fusion**|Yuqing Lan et.al.|[2506.15610](http://arxiv.org/abs/2506.15610)|null|
 |**2025-06-18**|**Retrospective Memory for Camouflaged Object Detection**|Chenxi Zhang et.al.|[2506.15244](http://arxiv.org/abs/2506.15244)|null|
 |**2025-06-17**|**Efficient Retail Video Annotation: A Robust Key Frame Generation Approach for Product and Customer Interaction Analysis**|Varun Mannam et.al.|[2506.14854](http://arxiv.org/abs/2506.14854)|null|
@@ -4915,7 +4935,7 @@
 |**2025-06-04**|**Open-PMC-18M: A High-Fidelity Large Scale Medical Dataset for Multimodal Representation Learning**|Negin Baghbanzadeh et.al.|[2506.02738](http://arxiv.org/abs/2506.02738)|null|
 |**2025-06-03**|**GeneA-SLAM2: Dynamic SLAM with AutoEncoder-Preprocessed Genetic Keypoints Resampling and Depth Variance-Guided Dynamic Region Removal**|Shufan Qing et.al.|[2506.02736](http://arxiv.org/abs/2506.02736)|**[link](https://github.com/qingshufan/GeneA-SLAM2)**|
 
-<p align=right>(<a href=#updated-on-20250621>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
