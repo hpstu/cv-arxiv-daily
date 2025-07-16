@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.11
+## Updated on 2025.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2554,6 +2554,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**Doodle Your Keypoints: Sketch-Based Few-Shot Keypoint Detection**|Subhajit Maity et.al.|[2507.07994](http://arxiv.org/abs/2507.07994)|null|
 |**2025-07-09**|**Reading a Ruler in the Wild**|Yimu Pan et.al.|[2507.07077](http://arxiv.org/abs/2507.07077)|null|
 |**2025-07-09**|**MK-Pose: Category-Level Object Pose Estimation via Multimodal-Based Keypoint Learning**|Yifan Yang et.al.|[2507.06662](http://arxiv.org/abs/2507.06662)|null|
 |**2025-06-27**|**MatChA: Cross-Algorithm Matching with Feature Augmentation**|Paula Carbó Cubero et.al.|[2506.22336](http://arxiv.org/abs/2506.22336)|null|
@@ -4836,10 +4837,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**OpenHuman4D: Open-Vocabulary 4D Human Parsing**|Keito Suzuki et.al.|[2507.09880](http://arxiv.org/abs/2507.09880)|null|
+|**2025-07-12**|**On the Fragility of Multimodal Perception to Temporal Misalignment in Autonomous Driving**|Md Hasan Shahriar et.al.|[2507.09095](http://arxiv.org/abs/2507.09095)|null|
+|**2025-07-11**|**SAM2RL: Towards Reinforcement Learning Memory Control in Segment Anything Model 2**|Alen Adamyan et.al.|[2507.08548](http://arxiv.org/abs/2507.08548)|null|
+|**2025-07-14**|**HiM2SAM: Enhancing SAM2 with Hierarchical Motion Estimation and Memory Optimization towards Long-term Tracking**|Ruixiang Chen et.al.|[2507.07603](http://arxiv.org/abs/2507.07603)|null|
+|**2025-07-10**|**Temporal Unlearnable Examples: Preventing Personal Video Data from Unauthorized Exploitation by Object Tracking**|Qiangqiang Wu et.al.|[2507.07483](http://arxiv.org/abs/2507.07483)|null|
 |**2025-07-08**|**When Trackers Date Fish: A Benchmark and Framework for Underwater Multiple Fish Tracking**|Weiran Li et.al.|[2507.06400](http://arxiv.org/abs/2507.06400)|null|
 |**2025-07-08**|**Cooperative Mapping, Localization, and Beam Management via Multi-Modal SLAM in ISAC Systems**|Hang Que et.al.|[2507.05718](http://arxiv.org/abs/2507.05718)|null|
 |**2025-07-07**|**Self-Supervised Real-Time Tracking of Military Vehicles in Low-FPS UAV Footage**|Markiyan Kostiv et.al.|[2507.05229](http://arxiv.org/abs/2507.05229)|null|
-|**2025-07-07**|**Robustifying 3D Perception through Least-Squares Multi-Agent Graphs Object Tracking**|Maria Damanaki et.al.|[2507.04762](http://arxiv.org/abs/2507.04762)|null|
+|**2025-07-15**|**Robustifying 3D Perception via Least-Squares Graphs for Multi-Agent Object Tracking**|Maria Damanaki et.al.|[2507.04762](http://arxiv.org/abs/2507.04762)|null|
 |**2025-07-06**|**"Hi AirStar, Guide Me to the Badminton Court."**|Ziqin Wang et.al.|[2507.04430](http://arxiv.org/abs/2507.04430)|null|
 |**2025-07-06**|**Adaptive Resource Management in Cognitive Radar via Deep Deterministic Policy Gradient**|Ziyang Lu et.al.|[2507.04195](http://arxiv.org/abs/2507.04195)|null|
 |**2025-07-05**|**Integrated Gaussian Processes for Robust and Adaptive Multi-Object Tracking**|Fred Lydeard et.al.|[2507.04116](http://arxiv.org/abs/2507.04116)|null|
@@ -4892,6 +4898,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**Fine-Grained Zero-Shot Object Detection**|Hongxu Ma et.al.|[2507.10358](http://arxiv.org/abs/2507.10358)|null|
+|**2025-07-14**|**BlueGlass: A Framework for Composite AI Safety**|Harshal Nandigramwar et.al.|[2507.10106](http://arxiv.org/abs/2507.10106)|null|
+|**2025-07-14**|**SRG/ART-XC All-Sky X-ray Survey: Sensitivity Assessment Based on Aperture Photometry**|N. Y. Tyrin et.al.|[2507.10060](http://arxiv.org/abs/2507.10060)|null|
+|**2025-07-14**|**3DGAA: Realistic and Robust 3D Gaussian-based Adversarial Attack for Autonomous Driving**|Yixun Zhang et.al.|[2507.09993](http://arxiv.org/abs/2507.09993)|null|
+|**2025-07-14**|**Measuring the Impact of Rotation Equivariance on Aerial Object Detection**|Xiuyu Wu et.al.|[2507.09896](http://arxiv.org/abs/2507.09896)|null|
+|**2025-07-13**|**MLoRQ: Bridging Low-Rank and Quantization for Transformer Compression**|Ofir Gordon et.al.|[2507.09616](http://arxiv.org/abs/2507.09616)|null|
+|**2025-07-12**|**Stereo-based 3D Anomaly Object Detection for Autonomous Driving: A New Dataset and Baseline**|Shiyi Mu et.al.|[2507.09214](http://arxiv.org/abs/2507.09214)|null|
+|**2025-07-12**|**On the Fragility of Multimodal Perception to Temporal Misalignment in Autonomous Driving**|Md Hasan Shahriar et.al.|[2507.09095](http://arxiv.org/abs/2507.09095)|null|
+|**2025-07-11**|**VISTA: A Visual Analytics Framework to Enhance Foundation Model-Generated Data Labels**|Xiwei Xuan et.al.|[2507.09008](http://arxiv.org/abs/2507.09008)|null|
+|**2025-07-11**|**RoundaboutHD: High-Resolution Real-World Urban Environment Benchmark for Multi-Camera Vehicle Tracking**|Yuqiang Lin et.al.|[2507.08729](http://arxiv.org/abs/2507.08729)|null|
 |**2025-07-09**|**DenoiseCP-Net: Efficient Collective Perception in Adverse Weather via Joint LiDAR-Based 3D Object Detection and Denoising**|Sven Teufel et.al.|[2507.06976](http://arxiv.org/abs/2507.06976)|null|
 |**2025-07-09**|**A multi-modal dataset for insect biodiversity with imagery and DNA at the trap and individual level**|Johanna Orsholm et.al.|[2507.06972](http://arxiv.org/abs/2507.06972)|null|
 |**2025-07-09**|**Dataset and Benchmark for Enhancing Critical Retained Foreign Object Detection**|Yuli Wang et.al.|[2507.06937](http://arxiv.org/abs/2507.06937)|null|
