@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.16
+## Updated on 2025.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2554,6 +2554,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**DINO-VO: A Feature-based Visual Odometry Leveraging a Visual Foundation Model**|Maulana Bisyir Azhari et.al.|[2507.13145](http://arxiv.org/abs/2507.13145)|null|
+|**2025-07-15**|**KptLLM++: Towards Generic Keypoint Comprehension with Large Language Model**|Jie Yang et.al.|[2507.11102](http://arxiv.org/abs/2507.11102)|null|
+|**2025-07-15**|**GKNet: Graph-based Keypoints Network for Monocular Pose Estimation of Non-cooperative Spacecraft**|Weizhao Ma et.al.|[2507.11077](http://arxiv.org/abs/2507.11077)|null|
+|**2025-07-14**|**FPC-Net: Revisiting SuperPoint with Descriptor-Free Keypoint Detection via Feature Pyramids and Consistency-Based Implicit Matching**|Ionuţ Grigore et.al.|[2507.10770](http://arxiv.org/abs/2507.10770)|null|
 |**2025-07-11**|**Doodle Your Keypoints: Sketch-Based Few-Shot Keypoint Detection**|Subhajit Maity et.al.|[2507.07994](http://arxiv.org/abs/2507.07994)|null|
 |**2025-07-09**|**Reading a Ruler in the Wild**|Yimu Pan et.al.|[2507.07077](http://arxiv.org/abs/2507.07077)|null|
 |**2025-07-09**|**MK-Pose: Category-Level Object Pose Estimation via Multimodal-Based Keypoint Learning**|Yifan Yang et.al.|[2507.06662](http://arxiv.org/abs/2507.06662)|null|
@@ -4837,6 +4841,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**MVA 2025 Small Multi-Object Tracking for Spotting Birds Challenge: Dataset, Methods, and Results**|Yuki Kondo et.al.|[2507.12832](http://arxiv.org/abs/2507.12832)|null|
+|**2025-07-16**|**YOLOv8-SMOT: An Efficient and Robust Framework for Real-Time Small Object Tracking via Slice-Assisted Training and Adaptive Association**|Xiang Yu et.al.|[2507.12087](http://arxiv.org/abs/2507.12087)|null|
+|**2025-07-16**|**Advantages of Feedback in Distributed Data-Gathering for Accurate and Power-Efficient State-Estimation**|Hyeongmin Choe et.al.|[2507.11924](http://arxiv.org/abs/2507.11924)|null|
 |**2025-07-14**|**OpenHuman4D: Open-Vocabulary 4D Human Parsing**|Keito Suzuki et.al.|[2507.09880](http://arxiv.org/abs/2507.09880)|null|
 |**2025-07-12**|**On the Fragility of Multimodal Perception to Temporal Misalignment in Autonomous Driving**|Md Hasan Shahriar et.al.|[2507.09095](http://arxiv.org/abs/2507.09095)|null|
 |**2025-07-11**|**SAM2RL: Towards Reinforcement Learning Memory Control in Segment Anything Model 2**|Alen Adamyan et.al.|[2507.08548](http://arxiv.org/abs/2507.08548)|null|
@@ -4898,6 +4905,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**A Real-Time System for Egocentric Hand-Object Interaction Detection in Industrial Domains**|Antonio Finocchiaro et.al.|[2507.13326](http://arxiv.org/abs/2507.13326)|null|
+|**2025-07-17**|**RS-TinyNet: Stage-wise Feature Fusion Network for Detecting Tiny Objects in Remote Sensing Images**|Xiaozheng Jiang et.al.|[2507.13120](http://arxiv.org/abs/2507.13120)|null|
+|**2025-07-17**|**Decoupled PROB: Decoupled Query Initialization Tasks and Objectness-Class Learning for Open World Object Detection**|Riku Inoue et.al.|[2507.13085](http://arxiv.org/abs/2507.13085)|null|
+|**2025-07-17**|**Dual LiDAR-Based Traffic Movement Count Estimation at a Signalized Intersection: Deployment, Data Collection, and Preliminary Analysis**|Saswat Priyadarshi Nayak et.al.|[2507.13073](http://arxiv.org/abs/2507.13073)|null|
+|**2025-07-17**|**SOD-YOLO: Enhancing YOLO-Based Detection of Small Objects in UAV Imagery**|Peijun Wang et.al.|[2507.12727](http://arxiv.org/abs/2507.12727)|null|
+|**2025-07-16**|**Vision-based Perception for Autonomous Vehicles in Obstacle Avoidance Scenarios**|Van-Hoang-Anh Phan et.al.|[2507.12449](http://arxiv.org/abs/2507.12449)|null|
+|**2025-07-16**|**InterpIoU: Rethinking Bounding Box Regression with Interpolation-Based IoU Optimization**|Haoyuan Liu et.al.|[2507.12420](http://arxiv.org/abs/2507.12420)|null|
+|**2025-07-16**|**AutoVDC: Automated Vision Data Cleaning Using Vision-Language Models**|Santosh Vasa et.al.|[2507.12414](http://arxiv.org/abs/2507.12414)|null|
+|**2025-07-18**|**OD-VIRAT: A Large-Scale Benchmark for Object Detection in Realistic Surveillance Environments**|Hayat Ullah et.al.|[2507.12396](http://arxiv.org/abs/2507.12396)|null|
+|**2025-07-16**|**Improving Lightweight Weed Detection via Knowledge Distillation**|Ahmet Oğuz Saltık et.al.|[2507.12344](http://arxiv.org/abs/2507.12344)|null|
 |**2025-07-14**|**Fine-Grained Zero-Shot Object Detection**|Hongxu Ma et.al.|[2507.10358](http://arxiv.org/abs/2507.10358)|null|
 |**2025-07-14**|**BlueGlass: A Framework for Composite AI Safety**|Harshal Nandigramwar et.al.|[2507.10106](http://arxiv.org/abs/2507.10106)|null|
 |**2025-07-14**|**SRG/ART-XC All-Sky X-ray Survey: Sensitivity Assessment Based on Aperture Photometry**|N. Y. Tyrin et.al.|[2507.10060](http://arxiv.org/abs/2507.10060)|null|

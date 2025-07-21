@@ -1,4 +1,4 @@
-## Updated on 2025.07.16
+## Updated on 2025.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -975,7 +975,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## SFM
 
@@ -1400,7 +1400,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2564,12 +2564,16 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## Keypoint Detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**DINO-VO: A Feature-based Visual Odometry Leveraging a Visual Foundation Model**|Maulana Bisyir Azhari et.al.|[2507.13145](http://arxiv.org/abs/2507.13145)|null|
+|**2025-07-15**|**KptLLM++: Towards Generic Keypoint Comprehension with Large Language Model**|Jie Yang et.al.|[2507.11102](http://arxiv.org/abs/2507.11102)|null|
+|**2025-07-15**|**GKNet: Graph-based Keypoints Network for Monocular Pose Estimation of Non-cooperative Spacecraft**|Weizhao Ma et.al.|[2507.11077](http://arxiv.org/abs/2507.11077)|null|
+|**2025-07-14**|**FPC-Net: Revisiting SuperPoint with Descriptor-Free Keypoint Detection via Feature Pyramids and Consistency-Based Implicit Matching**|Ionuţ Grigore et.al.|[2507.10770](http://arxiv.org/abs/2507.10770)|null|
 |**2025-07-11**|**Doodle Your Keypoints: Sketch-Based Few-Shot Keypoint Detection**|Subhajit Maity et.al.|[2507.07994](http://arxiv.org/abs/2507.07994)|null|
 |**2025-07-09**|**Reading a Ruler in the Wild**|Yimu Pan et.al.|[2507.07077](http://arxiv.org/abs/2507.07077)|null|
 |**2025-07-09**|**MK-Pose: Category-Level Object Pose Estimation via Multimodal-Based Keypoint Learning**|Yifan Yang et.al.|[2507.06662](http://arxiv.org/abs/2507.06662)|null|
@@ -2884,7 +2888,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## Image Matching
 
@@ -3235,7 +3239,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## NeRF
 
@@ -4853,12 +4857,15 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## Tracking
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**MVA 2025 Small Multi-Object Tracking for Spotting Birds Challenge: Dataset, Methods, and Results**|Yuki Kondo et.al.|[2507.12832](http://arxiv.org/abs/2507.12832)|null|
+|**2025-07-16**|**YOLOv8-SMOT: An Efficient and Robust Framework for Real-Time Small Object Tracking via Slice-Assisted Training and Adaptive Association**|Xiang Yu et.al.|[2507.12087](http://arxiv.org/abs/2507.12087)|null|
+|**2025-07-16**|**Advantages of Feedback in Distributed Data-Gathering for Accurate and Power-Efficient State-Estimation**|Hyeongmin Choe et.al.|[2507.11924](http://arxiv.org/abs/2507.11924)|null|
 |**2025-07-14**|**OpenHuman4D: Open-Vocabulary 4D Human Parsing**|Keito Suzuki et.al.|[2507.09880](http://arxiv.org/abs/2507.09880)|null|
 |**2025-07-12**|**On the Fragility of Multimodal Perception to Temporal Misalignment in Autonomous Driving**|Md Hasan Shahriar et.al.|[2507.09095](http://arxiv.org/abs/2507.09095)|null|
 |**2025-07-11**|**SAM2RL: Towards Reinforcement Learning Memory Control in Segment Anything Model 2**|Alen Adamyan et.al.|[2507.08548](http://arxiv.org/abs/2507.08548)|null|
@@ -4916,12 +4923,22 @@
 |**2025-05-27**|**SANSA: Unleashing the Hidden Semantics in SAM2 for Few-Shot Segmentation**|Claudia Cuttano et.al.|[2505.21795](http://arxiv.org/abs/2505.21795)|null|
 |**2025-05-27**|**Active Learning-Enhanced Dual Control for Angle-Only Initial Relative Orbit Determination**|Kui Xie et.al.|[2505.21248](http://arxiv.org/abs/2505.21248)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## Detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**A Real-Time System for Egocentric Hand-Object Interaction Detection in Industrial Domains**|Antonio Finocchiaro et.al.|[2507.13326](http://arxiv.org/abs/2507.13326)|null|
+|**2025-07-17**|**RS-TinyNet: Stage-wise Feature Fusion Network for Detecting Tiny Objects in Remote Sensing Images**|Xiaozheng Jiang et.al.|[2507.13120](http://arxiv.org/abs/2507.13120)|null|
+|**2025-07-17**|**Decoupled PROB: Decoupled Query Initialization Tasks and Objectness-Class Learning for Open World Object Detection**|Riku Inoue et.al.|[2507.13085](http://arxiv.org/abs/2507.13085)|null|
+|**2025-07-17**|**Dual LiDAR-Based Traffic Movement Count Estimation at a Signalized Intersection: Deployment, Data Collection, and Preliminary Analysis**|Saswat Priyadarshi Nayak et.al.|[2507.13073](http://arxiv.org/abs/2507.13073)|null|
+|**2025-07-17**|**SOD-YOLO: Enhancing YOLO-Based Detection of Small Objects in UAV Imagery**|Peijun Wang et.al.|[2507.12727](http://arxiv.org/abs/2507.12727)|null|
+|**2025-07-16**|**Vision-based Perception for Autonomous Vehicles in Obstacle Avoidance Scenarios**|Van-Hoang-Anh Phan et.al.|[2507.12449](http://arxiv.org/abs/2507.12449)|null|
+|**2025-07-16**|**InterpIoU: Rethinking Bounding Box Regression with Interpolation-Based IoU Optimization**|Haoyuan Liu et.al.|[2507.12420](http://arxiv.org/abs/2507.12420)|null|
+|**2025-07-16**|**AutoVDC: Automated Vision Data Cleaning Using Vision-Language Models**|Santosh Vasa et.al.|[2507.12414](http://arxiv.org/abs/2507.12414)|null|
+|**2025-07-18**|**OD-VIRAT: A Large-Scale Benchmark for Object Detection in Realistic Surveillance Environments**|Hayat Ullah et.al.|[2507.12396](http://arxiv.org/abs/2507.12396)|null|
+|**2025-07-16**|**Improving Lightweight Weed Detection via Knowledge Distillation**|Ahmet Oğuz Saltık et.al.|[2507.12344](http://arxiv.org/abs/2507.12344)|null|
 |**2025-07-14**|**Fine-Grained Zero-Shot Object Detection**|Hongxu Ma et.al.|[2507.10358](http://arxiv.org/abs/2507.10358)|null|
 |**2025-07-14**|**BlueGlass: A Framework for Composite AI Safety**|Harshal Nandigramwar et.al.|[2507.10106](http://arxiv.org/abs/2507.10106)|null|
 |**2025-07-14**|**SRG/ART-XC All-Sky X-ray Survey: Sensitivity Assessment Based on Aperture Photometry**|N. Y. Tyrin et.al.|[2507.10060](http://arxiv.org/abs/2507.10060)|null|
@@ -5013,7 +5030,7 @@
 |**2025-06-04**|**Open-PMC-18M: A High-Fidelity Large Scale Medical Dataset for Multimodal Representation Learning**|Negin Baghbanzadeh et.al.|[2506.02738](http://arxiv.org/abs/2506.02738)|null|
 |**2025-06-03**|**GeneA-SLAM2: Dynamic SLAM with AutoEncoder-Preprocessed Genetic Keypoints Resampling and Depth Variance-Guided Dynamic Region Removal**|Shufan Qing et.al.|[2506.02736](http://arxiv.org/abs/2506.02736)|**[link](https://github.com/qingshufan/GeneA-SLAM2)**|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
